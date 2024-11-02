@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Sandhya Kapa!
 I’m a passionate Full-Stack Web Developer specializing in Java-based applications with a knack for creating dynamic, user-centered web experiences. Driven by a love for technology and problem-solving, I focus on building efficient, scalable solutions that make an impact.
 
 🔥 Key Skills
